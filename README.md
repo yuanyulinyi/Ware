@@ -23,4 +23,4 @@ Web前端个人网站，网页个人网站模版，HTML&CSS&JS制作个人网站
 ![白色主题页](https://foruda.gitee.com/images/1660233327357495145/qq截图20220811235318.png "QQ截图20220811235318.png")
 
 #### 联系我：远程调试/二次开发/毕设
-![远程调试/二次开发/毕设](https://gitee.com/wttAndroid/wttAndroid.github.io/raw/master/src/img/%E6%97%A0%E6%A0%87%E9%A2%98.png)
+![远程调试/二次开发/毕设](https://gitee.com/qinLi/qinLi.github.io/raw/master/src/img/%E6%97%A0%E6%A0%87%E9%A2%98.png)
